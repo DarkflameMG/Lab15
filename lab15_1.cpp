@@ -77,4 +77,4 @@ void findColSum(const double *data1,double *data2,int N,int M)
 			*(data2+j) += (*(data1+(M*i)+j));
 		}
 	}
-}
+} 
